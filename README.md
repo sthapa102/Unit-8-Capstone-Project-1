@@ -76,6 +76,9 @@ Trends Screen
 Wireframes
 [Add picture of your hand sketched wireframes in this section] 
 
+![SQL](https://github.com/sthapa102/Unit-8-Capstone-Project-1/assets/82973044/77d94b42-5dbf-4a28-b5db-6c98ad2e1179)
+
+
 <div>
     <a href="https://www.loom.com/share/8bcfca6490ad48beb46d4c979f59ebeb">
     </a>
