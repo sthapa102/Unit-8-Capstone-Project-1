@@ -53,12 +53,23 @@ User can input personal details (e.g., weight and height for a BMI calculator).
 User can view the current trending topics on Twitter.
 
 
+
+
 3. Navigation
 Tab Navigation (Tab to Screen)
 
 Home
 Trends
 Profile
+
+User Feature Set
+
+Core Requirements
+
+The ability for individuals to log into their accounts, ensuring they can view and carry on with their previous activities and settings.
+The option for users to enter vital statistics like weight and height, which is necessary to get tailored health advice.
+A feature that presents users with the latest widely-discussed subjects, keeping them informed about the world's pulse.
+
 
 
 Flow Navigation (Screen to Screen)
