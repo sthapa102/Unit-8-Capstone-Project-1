@@ -76,6 +76,14 @@ Trends Screen
 Wireframes
 [Add picture of your hand sketched wireframes in this section] 
 
+<div>
+    <a href="https://www.loom.com/share/8bcfca6490ad48beb46d4c979f59ebeb">
+    </a>
+    <a href="https://www.loom.com/share/8bcfca6490ad48beb46d4c979f59ebeb">
+      <img style="max-width:300px;" src="null">
+    </a>
+  </div>
+
 
 
 [BONUS] Digital Wireframes & Mockups
