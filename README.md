@@ -18,13 +18,14 @@ App Ideas  - Workout tracker App
 
 App Evaluation
 
-Category:
-Mobile:
-Story:
-Market:
-Habit:
-Scope:
-Product Spec
+    Description - This app acts as your personal fitness companion. Just input your planned activity — like jogging, aerobics, or any exercise — and set the duration you intend to spend on it. Then, as you're active, the app discreetly logs your progress. Once you're done, it's like having a mini celebration on your screen, displaying a simple summary of your workout achievements. It's like a supportive friend in your phone, applauding your efforts after each session!
+    Category - Fitness
+    Mobile - Its good for sharing data with friends
+    Story - Creates a team for fitness people
+    Market - Fitness influencers/ Fitness einthusiasts 
+    Habit - all Fitness Freaks can use this app
+    Scope. V1 will be basic just kind of a to-do list 
+
 1. User Stories (Required and Optional)
 
 
