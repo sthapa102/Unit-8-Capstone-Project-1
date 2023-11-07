@@ -113,3 +113,10 @@ Networking
 [Add list of network requests by screen ]
 [Create basic snippets for each Parse network request]
 [OPTIONAL: List endpoints if using existing API such as Yelp]
+<div>
+    <a href="https://www.loom.com/share/f2121bba1d9344fba6b34ae10c723ae2">
+    </a>
+    <a href="https://www.loom.com/share/f2121bba1d9344fba6b34ae10c723ae2">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f2121bba1d9344fba6b34ae10c723ae2-with-play.gif">
+    </a>
+  </div>
