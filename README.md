@@ -1,8 +1,8 @@
 // Updates to Readme File
 
-User Features 
-[x] Treding Story Display
-[x] Scrollable feed using scrollView
+USER FEATURES 
+- [x] User can View Treding Story Display
+- [x] Scrollable feed using scrollView
 
 
 
