@@ -3,6 +3,8 @@
 USER FEATURES 
 - [x] User can View Treding Story Display
 - [x] Scrollable feed using scrollView
+- [x] Added tablview and added api to get to the feed using TableView
+
 
 
 
@@ -23,7 +25,7 @@ Welcome to the Trending Tweets App! This app helps you stay updated with what's 
 
 
 [x] Updated Readme with reflection on progress 
-Reflecting on how this app has evolved, it's come a long way. It started by making it easier to see what's popular on Twitter. Now, it's even simpler to use, with features like customizing your feed. The goal remains the same: making sure you never miss what's happening on Twitter. The app keeps improving based on your input. Thanks for being part of this journey as it gets better!
+Reflecting on how this app has evolved, it's come a long way. It started by making it easier to see what's popular on Twitter. Now, it's even simpler to use, with features like customizing your feed. The goal remains the same: making sure you never miss what's happening on Twitter. The app keeps improving based on your input.
 
 
 
