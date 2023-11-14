@@ -1,3 +1,27 @@
+// Updates to Readme File
+
+User Features 
+[x] Treding Story Display
+[x] Scrollable feed using scrollView
+
+
+
+[x]UPDATED VIDEO
+
+
+
+
+[x]Updated Read me 
+
+Welcome to the Trending Tweets App! This app helps you stay updated with what's popular on Twitter. It's an easy way to discover the latest trending tweets and topics. You can customize your feed, interact with tweets, and join conversations.
+
+
+[x] Updated Readme with reflection on progress 
+Reflecting on how this app has evolved, it's come a long way. It started by making it easier to see what's popular on Twitter. Now, it's even simpler to use, with features like customizing your feed. The goal remains the same: making sure you never miss what's happening on Twitter. The app keeps improving based on your input. Thanks for being part of this journey as it gets better!
+
+
+
+
 Original App Design Project - README
 Top 3 APP Ideas
 
