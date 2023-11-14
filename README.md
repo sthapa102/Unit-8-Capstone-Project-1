@@ -9,10 +9,10 @@ USER FEATURES
 [x]UPDATED VIDEO
 
 <div>
-    <a href="https://www.loom.com/share/2ac47d6738084de89456b34fba45a572">
+    <a href="https://www.loom.com/share/db9607a6a9f84ddabf026bdd92c9226e">
     </a>
-    <a href="https://www.loom.com/share/2ac47d6738084de89456b34fba45a572">
-      <img style="max-width:300px;" src="null">
+    <a href="https://www.loom.com/share/db9607a6a9f84ddabf026bdd92c9226e">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/db9607a6a9f84ddabf026bdd92c9226e-with-play.gif">
     </a>
   </div>
 
