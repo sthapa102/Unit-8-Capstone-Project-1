@@ -1,3 +1,16 @@
+NEW Updates to the app
+USER FEATURES 
+- [x] User can View Treding Story Display
+- [x] Scrollable feed using scrollView
+- [x] Added tablview and added api to get to the feed using TableView
+- [x] Added fetch  API to fetch data
+
+
+
+
+
+
+
 // Updates to Readme File
 
 USER FEATURES 
